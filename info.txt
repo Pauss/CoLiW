@@ -1,0 +1,1 @@
+TsDjango este proiectul in sine.twitter, slideshare, gmail_off, flickrApi sunt api-urile care le-am folosit(sunt atata librariile cat si exemple pentru fiecare in parte)http://tw.code0day.eu
